@@ -13,7 +13,7 @@
 6. MIT License
 
 7. GPL is best for common good because source code must be made available. 
-   For a company, Apache/BSD
+   For a company, Apache/BSD because you can't use trademark.
    For a developer, LGPL
 
 8. MIT lets people use your code, but they must credit you and can't hold you liable.
