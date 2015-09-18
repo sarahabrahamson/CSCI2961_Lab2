@@ -18,4 +18,4 @@
 
 8. MIT lets people use your code, but they must credit you and can't hold you liable.
 
-9. 
+9. My partners will be Ian, Nathan, and Matthew. We will use either MEAN or LAMP, depending on the project we choose. We will choose a project by brainstorming, searching the web, or asking our friends for ideas. We will be using the MIT License. It appears to be the most free license, because anyone else can take it and modify it as long as they credit us. Also, other people can't hold us accountable for the code if something bad happens.
